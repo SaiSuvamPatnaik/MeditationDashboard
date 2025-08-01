@@ -2711,6 +2711,7 @@ blockquote {
   font-family: Tt Fors Trial, sans-serif;
   font-size: 22px;
   font-weight: 400;
+
 }
 
 .kutup-features-title-2 {
@@ -2832,7 +2833,9 @@ blockquote {
   text-transform: lowercase;
   font-size: 48px;
   font-weight: 500;
+  color: #dd4515;
 }
+
 
 .image-3 {
   width: 100%;
@@ -3727,6 +3730,8 @@ blockquote {
 
   .kutup-hero-title-2 {
     font-size: 50px;
+
+
   }
 
   .kutup-hero-left-part {
@@ -3856,10 +3861,14 @@ blockquote {
   .kutup-hero-title-2 {
     text-align: center;
     font-size: 32px;
+
+
   }
 
   .kutup-hero-title-2.left {
     text-align: left;
+
+
   }
 
   .kutup-hero-left-part {
@@ -4084,7 +4093,8 @@ blockquote {
 
   .paragraph-2 {
     font-size: 20px;
-  }
+    color: #dd4515;
+    }
 
   .text-block-6 {
     font-size: 25px;
