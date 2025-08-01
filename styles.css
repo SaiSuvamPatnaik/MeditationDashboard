@@ -2333,12 +2333,13 @@ blockquote {
 }
 
 .kutup-hero-right-part {
-  background-image: url("https://assets-global.website-files.com/64c54a4693574c32c8e5d853/64c55b2bf22c3195f781ad36_hero.svg");
-  background-position: 0%;
+  background-image: url("1.jpeg");
+  background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 88%; /* shrinks image relative to container */
   position: relative;
 }
+
 
 .kutup-divider-30px {
   height: 30px;
@@ -3403,7 +3404,7 @@ blockquote {
   }
 
   .kutup-cta-photo {
-    background-image: url("https://assets-global.website-files.com/64c54a4693574c32c8e5d853/64c564b0de0296f89fcb6772_handlotusbg.svg");
+    background-image: url("2.jpeg");
     background-position: 0%;
     background-size: contain;
   }
