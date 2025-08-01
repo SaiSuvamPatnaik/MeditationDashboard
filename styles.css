@@ -2336,7 +2336,7 @@ blockquote {
   background-image: url("1.jpeg");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 88%; /* shrinks image relative to container */
+  background-size: 90%; /* shrinks image relative to container */
   position: relative;
 }
 
@@ -2687,7 +2687,7 @@ blockquote {
 
 .kutup-cta-photo {
   background-color: #fff;
-  background-image: url("64c564b0de0296f89fcb6772_handlotusbg.svg");
+  background-image: url("2.jpeg");
   background-position: 0%;
   background-repeat: no-repeat;
   background-size: contain;
